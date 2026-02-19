@@ -16,7 +16,7 @@ Software is the logic that brings hardware to life. To understand it deeply, we 
 
 
 
----
+
 
 ---> Hardware
 
@@ -29,9 +29,9 @@ Understanding the physical "anatomy" of a computer is the first step toward syst
 
 
 
----
 
-## Physical Ports
+
+---> Physical Ports
 
 Ports are the physical "gateways" for data exchange. Knowing their throughput is vital for professional setups.
 
