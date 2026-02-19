@@ -7,7 +7,7 @@ Welcome to the **Funda Mental** repository! This is a comprehensive, deep-dive r
 
 ---
 
-## Software
+---> Software
 
 Software is the logic that brings hardware to life. To understand it deeply, we categorize it based on its proximity to the hardware:
 
