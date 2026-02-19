@@ -5,7 +5,7 @@ Welcome to the **Funda Mental** repository! This is a comprehensive, deep-dive r
 <div align="center" ><h1> [Mitul_Vegad]<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" width="500">
 <br><br></h1></div>
 
----
+
 
 ---> Software
 
@@ -18,7 +18,7 @@ Software is the logic that brings hardware to life. To understand it deeply, we 
 
 ---
 
-## Hardware
+---> Hardware
 
 Understanding the physical "anatomy" of a computer is the first step toward system optimization and troubleshooting.
 
